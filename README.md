@@ -51,6 +51,7 @@ Helps balance moderator workload and surface break prompts.
 
 ## Demo
 - Demo Video: add link here
+- https://youtube.com/shorts/y693R1RvRDY?si=zf5RZ30CPdYejv0H
 - Devpost Submission: add link here
 - GitHub Repository: add link here
 
@@ -84,7 +85,8 @@ MIT
 ```txt
 MIT License
 
-Copyright (c) 2026 <Your Name>
+Copyright (c) 2026 <Aastha sukhadiya
+>
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
@@ -238,6 +240,19 @@ modshield-ai/
     ├── impact.png
     └── thumbnail.png
 
+
+13) Optional .github/ files
+CONTRIBUTING.md
+
+# Contributing
+
+This project is part of a hackathon build. Contributions should focus on improving moderation workflow clarity, UI polish, or documentation.
+
+CODE_OF_CONDUCT.md
+
+# Code of Conduct
+
+Be respectful, constructive, and collaborative.
 
 
 
